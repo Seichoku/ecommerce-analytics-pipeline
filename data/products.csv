@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,cost_price,selling_price,is_active
+PROD-0001,Samsung Electronics Item 1,Electronics,Samsung,349.12,953.45,True
+PROD-0002,Samsung Electronics Item 2,Electronics,Samsung,546.3,884.15,True
+PROD-0003,Apple Electronics Item 3,Electronics,Apple,70.7,184.71,True
+PROD-0004,Sony Electronics Item 4,Electronics,Sony,642.56,918.1,False
+PROD-0005,Sony Electronics Item 5,Electronics,Sony,751.98,1276.32,True
+PROD-0006,Sony Electronics Item 6,Electronics,Sony,180.96,330.42,True
+PROD-0007,Samsung Electronics Item 7,Electronics,Samsung,399.63,722.42,True
+PROD-0008,Bose Electronics Item 8,Electronics,Bose,142.33,257.48,True
+PROD-0009,Samsung Electronics Item 9,Electronics,Samsung,420.85,1051.81,True
+PROD-0010,Bose Electronics Item 10,Electronics,Bose,472.02,1052.31,True
+PROD-0011,LG Electronics Item 11,Electronics,LG,554.12,908.06,True
+PROD-0012,Samsung Electronics Item 12,Electronics,Samsung,854.43,2351.29,True
+PROD-0013,Samsung Electronics Item 13,Electronics,Samsung,287.6,441.97,True
+PROD-0014,Samsung Electronics Item 14,Electronics,Samsung,406.85,639.1,True
+PROD-0015,Sony Electronics Item 15,Electronics,Sony,49.86,133.28,True
+PROD-0016,Sony Electronics Item 16,Electronics,Sony,602.49,1106.41,True
+PROD-0017,Bose Electronics Item 17,Electronics,Bose,500.6,830.39,False
+PROD-0018,Bose Electronics Item 18,Electronics,Bose,701.56,1904.94,True
+PROD-0019,Samsung Electronics Item 19,Electronics,Samsung,545.63,1468.09,True
+PROD-0020,Bose Electronics Item 20,Electronics,Bose,192.03,281.0,True
+PROD-0021,Sony Electronics Item 21,Electronics,Sony,361.56,643.54,True
+PROD-0022,Bose Electronics Item 22,Electronics,Bose,333.47,598.01,True
+PROD-0023,LG Electronics Item 23,Electronics,LG,143.59,362.29,True
+PROD-0024,Sony Electronics Item 24,Electronics,Sony,887.86,2202.91,True
+PROD-0025,LG Electronics Item 25,Electronics,LG,24.46,62.17,True
+PROD-0026,Levi's Clothing Item 26,Clothing,Levi's,110.98,275.21,True
+PROD-0027,Zara Clothing Item 27,Clothing,Zara,57.62,90.01,True
+PROD-0028,Nike Clothing Item 28,Clothing,Nike,95.75,178.41,True
+PROD-0029,Adidas Clothing Item 29,Clothing,Adidas,50.78,94.21,True
+PROD-0030,H&M Clothing Item 30,Clothing,H&M,97.81,258.42,True
+PROD-0031,Zara Clothing Item 31,Clothing,Zara,23.22,55.69,True
+PROD-0032,Zara Clothing Item 32,Clothing,Zara,86.82,215.26,True
+PROD-0033,Adidas Clothing Item 33,Clothing,Adidas,81.27,162.42,True
+PROD-0034,Adidas Clothing Item 34,Clothing,Adidas,21.54,31.1,True
+PROD-0035,Zara Clothing Item 35,Clothing,Zara,51.27,108.28,True
+PROD-0036,Nike Clothing Item 36,Clothing,Nike,41.9,82.73,True
+PROD-0037,Nike Clothing Item 37,Clothing,Nike,38.95,58.73,True
+PROD-0038,H&M Clothing Item 38,Clothing,H&M,29.22,78.94,True
+PROD-0039,Nike Clothing Item 39,Clothing,Nike,97.21,254.69,True
+PROD-0040,Zara Clothing Item 40,Clothing,Zara,32.87,87.09,True
+PROD-0041,Zara Clothing Item 41,Clothing,Zara,122.27,324.57,True
+PROD-0042,Levi's Clothing Item 42,Clothing,Levi's,21.85,37.56,True
+PROD-0043,Zara Clothing Item 43,Clothing,Zara,123.79,322.48,True
+PROD-0044,Nike Clothing Item 44,Clothing,Nike,79.55,157.86,True
+PROD-0045,H&M Clothing Item 45,Clothing,H&M,23.26,43.56,False
+PROD-0046,Levi's Clothing Item 46,Clothing,Levi's,52.54,111.72,True
+PROD-0047,Nike Clothing Item 47,Clothing,Nike,58.36,161.1,False
+PROD-0048,H&M Clothing Item 48,Clothing,H&M,42.26,88.58,True
+PROD-0049,Nike Clothing Item 49,Clothing,Nike,47.02,68.26,True
+PROD-0050,Levi's Clothing Item 50,Clothing,Levi's,78.39,115.4,True
+PROD-0051,Cuisinart Home & Garden Item 51,Home & Garden,Cuisinart,436.7,757.84,True
+PROD-0052,Cuisinart Home & Garden Item 52,Home & Garden,Cuisinart,239.02,664.45,True
+PROD-0053,Dyson Home & Garden Item 53,Home & Garden,Dyson,325.25,802.15,True
+PROD-0054,IKEA Home & Garden Item 54,Home & Garden,IKEA,351.72,673.51,True
+PROD-0055,IKEA Home & Garden Item 55,Home & Garden,IKEA,307.03,660.14,True
+PROD-0056,Dyson Home & Garden Item 56,Home & Garden,Dyson,402.26,743.82,True
+PROD-0057,Cuisinart Home & Garden Item 57,Home & Garden,Cuisinart,27.25,60.69,True
+PROD-0058,IKEA Home & Garden Item 58,Home & Garden,IKEA,15.83,33.51,True
+PROD-0059,Dyson Home & Garden Item 59,Home & Garden,Dyson,312.52,513.82,True
+PROD-0060,IKEA Home & Garden Item 60,Home & Garden,IKEA,190.54,516.63,True
+PROD-0061,KitchenAid Home & Garden Item 61,Home & Garden,KitchenAid,168.98,263.42,False
+PROD-0062,Cuisinart Home & Garden Item 62,Home & Garden,Cuisinart,422.1,743.37,True
+PROD-0063,KitchenAid Home & Garden Item 63,Home & Garden,KitchenAid,393.73,857.26,True
+PROD-0064,Cuisinart Home & Garden Item 64,Home & Garden,Cuisinart,122.15,186.93,True
+PROD-0065,Dyson Home & Garden Item 65,Home & Garden,Dyson,433.0,989.99,True
+PROD-0066,Cuisinart Home & Garden Item 66,Home & Garden,Cuisinart,172.83,417.62,True
+PROD-0067,Cuisinart Home & Garden Item 67,Home & Garden,Cuisinart,426.7,1063.26,True
+PROD-0068,Dyson Home & Garden Item 68,Home & Garden,Dyson,47.71,77.59,True
+PROD-0069,Cuisinart Home & Garden Item 69,Home & Garden,Cuisinart,294.23,415.71,True
+PROD-0070,IKEA Home & Garden Item 70,Home & Garden,IKEA,321.17,451.91,True
+PROD-0071,Dyson Home & Garden Item 71,Home & Garden,Dyson,267.0,632.43,True
+PROD-0072,Dyson Home & Garden Item 72,Home & Garden,Dyson,113.86,272.93,True
+PROD-0073,Dyson Home & Garden Item 73,Home & Garden,Dyson,161.59,395.1,True
+PROD-0074,KitchenAid Home & Garden Item 74,Home & Garden,KitchenAid,408.83,948.75,True
+PROD-0075,KitchenAid Home & Garden Item 75,Home & Garden,KitchenAid,52.21,99.97,True
+PROD-0076,Garmin Sports Item 76,Sports,Garmin,90.86,250.97,True
+PROD-0077,Under Armour Sports Item 77,Sports,Under Armour,321.57,734.34,True
+PROD-0078,Garmin Sports Item 78,Sports,Garmin,182.94,403.87,True
+PROD-0079,Nike Sports Item 79,Sports,Nike,73.51,177.26,True
+PROD-0080,Under Armour Sports Item 80,Sports,Under Armour,12.66,29.16,True
+PROD-0081,Nike Sports Item 81,Sports,Nike,338.8,926.79,True
+PROD-0082,Garmin Sports Item 82,Sports,Garmin,135.78,193.03,False
+PROD-0083,Titleist Sports Item 83,Sports,Titleist,156.43,430.7,False
+PROD-0084,Garmin Sports Item 84,Sports,Garmin,307.67,557.57,True
+PROD-0085,Nike Sports Item 85,Sports,Nike,307.0,566.01,True
+PROD-0086,Under Armour Sports Item 86,Sports,Under Armour,202.22,548.14,True
+PROD-0087,Garmin Sports Item 87,Sports,Garmin,206.94,317.87,True
+PROD-0088,Under Armour Sports Item 88,Sports,Under Armour,356.46,568.95,True
+PROD-0089,Titleist Sports Item 89,Sports,Titleist,316.34,770.94,True
+PROD-0090,Titleist Sports Item 90,Sports,Titleist,254.08,483.59,True
+PROD-0091,Titleist Sports Item 91,Sports,Titleist,292.13,740.3,True
+PROD-0092,Under Armour Sports Item 92,Sports,Under Armour,329.11,696.36,True
+PROD-0093,Garmin Sports Item 93,Sports,Garmin,288.19,665.7,True
+PROD-0094,Under Armour Sports Item 94,Sports,Under Armour,287.3,760.2,True
+PROD-0095,Under Armour Sports Item 95,Sports,Under Armour,137.71,210.91,True
+PROD-0096,Garmin Sports Item 96,Sports,Garmin,16.8,34.47,True
+PROD-0097,Titleist Sports Item 97,Sports,Titleist,106.01,236.1,True
+PROD-0098,Titleist Sports Item 98,Sports,Titleist,17.3,44.14,True
+PROD-0099,Garmin Sports Item 99,Sports,Garmin,49.23,104.92,True
+PROD-0100,Under Armour Sports Item 100,Sports,Under Armour,80.83,183.65,True
+PROD-0101,Penguin Books Item 101,Books,Penguin,4.9,10.51,True
+PROD-0102,OReilly Books Item 102,Books,OReilly,24.11,58.26,False
+PROD-0103,HarperCollins Books Item 103,Books,HarperCollins,20.13,37.28,True
+PROD-0104,Penguin Books Item 104,Books,Penguin,12.08,24.34,True
+PROD-0105,Penguin Books Item 105,Books,Penguin,4.03,11.07,True
+PROD-0106,Penguin Books Item 106,Books,Penguin,26.03,51.35,True
+PROD-0107,Penguin Books Item 107,Books,Penguin,8.33,14.58,True
+PROD-0108,OReilly Books Item 108,Books,OReilly,26.64,61.92,True
+PROD-0109,Penguin Books Item 109,Books,Penguin,34.52,83.99,True
+PROD-0110,OReilly Books Item 110,Books,OReilly,23.26,46.23,True
+PROD-0111,HarperCollins Books Item 111,Books,HarperCollins,14.88,36.62,True
+PROD-0112,OReilly Books Item 112,Books,OReilly,7.01,10.27,True
+PROD-0113,Penguin Books Item 113,Books,Penguin,31.26,74.56,True
+PROD-0114,HarperCollins Books Item 114,Books,HarperCollins,6.41,13.39,True
+PROD-0115,HarperCollins Books Item 115,Books,HarperCollins,8.88,17.83,True
+PROD-0116,OReilly Books Item 116,Books,OReilly,23.4,53.57,True
+PROD-0117,HarperCollins Books Item 117,Books,HarperCollins,15.49,35.26,True
+PROD-0118,OReilly Books Item 118,Books,OReilly,31.29,72.66,True
+PROD-0119,HarperCollins Books Item 119,Books,HarperCollins,5.51,12.67,True
+PROD-0120,OReilly Books Item 120,Books,OReilly,22.41,60.87,True
+PROD-0121,Penguin Books Item 121,Books,Penguin,15.93,36.65,True
+PROD-0122,OReilly Books Item 122,Books,OReilly,21.1,57.35,True
+PROD-0123,OReilly Books Item 123,Books,OReilly,34.73,92.64,True
+PROD-0124,Penguin Books Item 124,Books,Penguin,5.48,8.45,True
+PROD-0125,OReilly Books Item 125,Books,OReilly,6.3,14.84,True
+PROD-0126,Fenty Beauty Item 126,Beauty,Fenty,41.55,107.32,True
+PROD-0127,Fenty Beauty Item 127,Beauty,Fenty,98.63,177.0,True
+PROD-0128,L'Oréal Beauty Item 128,Beauty,L'Oréal,85.06,193.98,True
+PROD-0129,Fenty Beauty Item 129,Beauty,Fenty,89.48,225.93,True
+PROD-0130,Olaplex Beauty Item 130,Beauty,Olaplex,25.24,61.86,True
+PROD-0131,Clinique Beauty Item 131,Beauty,Clinique,118.91,235.16,True
+PROD-0132,Olaplex Beauty Item 132,Beauty,Olaplex,94.24,176.9,False
+PROD-0133,L'Oréal Beauty Item 133,Beauty,L'Oréal,103.69,207.44,True
+PROD-0134,Fenty Beauty Item 134,Beauty,Fenty,91.72,141.65,True
+PROD-0135,Clinique Beauty Item 135,Beauty,Clinique,63.01,161.12,True
+PROD-0136,L'Oréal Beauty Item 136,Beauty,L'Oréal,107.96,209.97,True
+PROD-0137,Fenty Beauty Item 137,Beauty,Fenty,109.1,166.68,True
+PROD-0138,Clinique Beauty Item 138,Beauty,Clinique,114.25,312.0,True
+PROD-0139,Clinique Beauty Item 139,Beauty,Clinique,77.59,157.34,True
+PROD-0140,Fenty Beauty Item 140,Beauty,Fenty,42.66,99.89,True
+PROD-0141,Clinique Beauty Item 141,Beauty,Clinique,95.99,240.5,True
+PROD-0142,L'Oréal Beauty Item 142,Beauty,L'Oréal,61.76,91.44,True
+PROD-0143,Fenty Beauty Item 143,Beauty,Fenty,55.66,147.1,True
+PROD-0144,Olaplex Beauty Item 144,Beauty,Olaplex,18.29,29.27,True
+PROD-0145,L'Oréal Beauty Item 145,Beauty,L'Oréal,76.02,117.19,True
+PROD-0146,L'Oréal Beauty Item 146,Beauty,L'Oréal,85.55,128.48,True
+PROD-0147,Fenty Beauty Item 147,Beauty,Fenty,86.16,130.44,True
+PROD-0148,Fenty Beauty Item 148,Beauty,Fenty,118.46,227.91,True
+PROD-0149,Clinique Beauty Item 149,Beauty,Clinique,98.43,268.33,False
+PROD-0150,L'Oréal Beauty Item 150,Beauty,L'Oréal,91.59,176.47,True
+PROD-0151,Hasbro Toys Item 151,Toys,Hasbro,140.78,307.15,True
+PROD-0152,LEGO Toys Item 152,Toys,LEGO,163.52,254.38,True
+PROD-0153,LEGO Toys Item 153,Toys,LEGO,6.0,12.34,True
+PROD-0154,Fisher-Price Toys Item 154,Toys,Fisher-Price,24.91,38.97,True
+PROD-0155,LEGO Toys Item 155,Toys,LEGO,135.3,299.92,False
+PROD-0156,Hasbro Toys Item 156,Toys,Hasbro,69.98,125.96,True
+PROD-0157,Hasbro Toys Item 157,Toys,Hasbro,43.35,119.15,True
+PROD-0158,Fisher-Price Toys Item 158,Toys,Fisher-Price,174.7,255.14,True
+PROD-0159,Hasbro Toys Item 159,Toys,Hasbro,96.88,270.31,True
+PROD-0160,Mattel Toys Item 160,Toys,Mattel,101.48,279.78,True
+PROD-0161,Fisher-Price Toys Item 161,Toys,Fisher-Price,114.77,272.47,True
+PROD-0162,Hasbro Toys Item 162,Toys,Hasbro,114.45,253.85,True
+PROD-0163,Hasbro Toys Item 163,Toys,Hasbro,12.0,21.52,False
+PROD-0164,Mattel Toys Item 164,Toys,Mattel,160.69,327.47,True
+PROD-0165,Fisher-Price Toys Item 165,Toys,Fisher-Price,52.82,87.86,True
+PROD-0166,Mattel Toys Item 166,Toys,Mattel,66.19,146.75,True
+PROD-0167,Fisher-Price Toys Item 167,Toys,Fisher-Price,175.49,487.98,True
+PROD-0168,Fisher-Price Toys Item 168,Toys,Fisher-Price,98.35,180.31,True
+PROD-0169,LEGO Toys Item 169,Toys,LEGO,124.51,202.66,True
+PROD-0170,Hasbro Toys Item 170,Toys,Hasbro,148.77,406.1,True
+PROD-0171,Hasbro Toys Item 171,Toys,Hasbro,111.96,222.3,False
+PROD-0172,LEGO Toys Item 172,Toys,LEGO,156.43,228.9,True
+PROD-0173,Mattel Toys Item 173,Toys,Mattel,70.26,178.09,False
+PROD-0174,LEGO Toys Item 174,Toys,LEGO,30.47,68.0,True
+PROD-0175,Hasbro Toys Item 175,Toys,Hasbro,174.7,450.55,True
+PROD-0176,Vitamix Food & Drink Item 176,Food & Drink,Vitamix,129.73,256.96,True
+PROD-0177,Nespresso Food & Drink Item 177,Food & Drink,Nespresso,20.88,54.51,True
+PROD-0178,Nespresso Food & Drink Item 178,Food & Drink,Nespresso,269.93,754.53,True
+PROD-0179,Nespresso Food & Drink Item 179,Food & Drink,Nespresso,209.01,569.07,True
+PROD-0180,Vitamix Food & Drink Item 180,Food & Drink,Vitamix,71.3,144.79,True
+PROD-0181,Nespresso Food & Drink Item 181,Food & Drink,Nespresso,257.87,579.86,True
+PROD-0182,Nespresso Food & Drink Item 182,Food & Drink,Nespresso,183.33,415.31,True
+PROD-0183,Keurig Food & Drink Item 183,Food & Drink,Keurig,35.98,84.2,True
+PROD-0184,Nespresso Food & Drink Item 184,Food & Drink,Nespresso,209.89,446.69,True
+PROD-0185,Vitamix Food & Drink Item 185,Food & Drink,Vitamix,151.7,331.51,True
+PROD-0186,Keurig Food & Drink Item 186,Food & Drink,Keurig,112.52,178.64,True
+PROD-0187,Instant Pot Food & Drink Item 187,Food & Drink,Instant Pot,205.36,465.85,True
+PROD-0188,Vitamix Food & Drink Item 188,Food & Drink,Vitamix,62.22,98.99,True
+PROD-0189,Vitamix Food & Drink Item 189,Food & Drink,Vitamix,98.56,219.38,True
+PROD-0190,Instant Pot Food & Drink Item 190,Food & Drink,Instant Pot,121.49,323.87,True
+PROD-0191,Vitamix Food & Drink Item 191,Food & Drink,Vitamix,141.69,353.82,True
+PROD-0192,Instant Pot Food & Drink Item 192,Food & Drink,Instant Pot,170.23,443.84,False
+PROD-0193,Instant Pot Food & Drink Item 193,Food & Drink,Instant Pot,44.83,120.92,True
+PROD-0194,Vitamix Food & Drink Item 194,Food & Drink,Vitamix,74.18,151.53,False
+PROD-0195,Nespresso Food & Drink Item 195,Food & Drink,Nespresso,136.05,253.09,True
+PROD-0196,Nespresso Food & Drink Item 196,Food & Drink,Nespresso,69.4,104.53,True
+PROD-0197,Instant Pot Food & Drink Item 197,Food & Drink,Instant Pot,39.8,64.18,True
+PROD-0198,Keurig Food & Drink Item 198,Food & Drink,Keurig,175.19,289.88,True
+PROD-0199,Instant Pot Food & Drink Item 199,Food & Drink,Instant Pot,242.75,500.93,True
+PROD-0200,Instant Pot Food & Drink Item 200,Food & Drink,Instant Pot,51.49,85.95,True
